@@ -1,6 +1,6 @@
 var valorTotal = [0, 0];
 var valorProduto = [50.00, 30.00];
-var qtd = [0, 0];
+var qtd = [1, 1];
 
 function adicionarItem(item) {
   var quantidade = document.getElementById("quantidade" + item);
