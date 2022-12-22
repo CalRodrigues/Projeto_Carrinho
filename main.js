@@ -1,4 +1,4 @@
-var valorTotal = [0, 0];
+var valorTotal = [50.00, 30.00];
 var valorProduto = [50.00, 30.00];
 var qtd = [1, 1];
 
